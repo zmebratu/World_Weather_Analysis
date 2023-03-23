@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
 ## Overview
 This analysis was done for the Plan My Trip, a renowned travel company that specializes in the hotel and lodging industry and assists travelers in selecting their preferred destinations worldwide based on their weather preferences.
